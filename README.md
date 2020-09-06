@@ -1,6 +1,6 @@
-# Git-hub-First-Demo
+# Git-hub-Demo
 
-In this project I want to predict the ....
+In this project I want to learn the how github works....
 
 ## Sub-header 
 
